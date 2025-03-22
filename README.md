@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate software engineer from 🇿🇦 South Africa currently living in beautiful 🇨🇭 Switzerland.</h3>
+<h3 align="center">Technology and guitar riffs all day. Raised in 🇿🇦 South Africa living in 🇨🇭 Switzerland.</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
