@@ -30,15 +30,15 @@
 
 #### Stats
 
-<a href="https://github.com/rohan-buechner">
-  <img height="137px" src="stars-tier.svg"/>
-  <img height="137px" src="languages.svg"/>
+<a href="https://stackoverflow.com/users/1105314">
+   <img height="137px" src="stackoverflow.svg"/>
 </a>
 <a href="https://github.com/rohan-buechner">
     <img height="137px" src="streak.svg"/>
 </a>
-<a href="https://stackoverflow.com/users/1105314">
-   <img height="137px" src="stackoverflow.svg"/>
+<a href="https://github.com/rohan-buechner">
+  <img height="137px" src="stars-tier.svg"/>
+  <img height="137px" src="languages.svg"/>
 </a>
 
 ### Profile View Tracker
