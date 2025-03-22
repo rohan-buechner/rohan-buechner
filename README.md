@@ -165,5 +165,5 @@
   </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-buechner&show_icons=true&locale=en&layout=compact" alt="rohan-buechner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-buechner&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rohan-buechner" />
 </p>
