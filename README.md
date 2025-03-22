@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate software engineer from 🇿🇦 South Africa currently living in beautiful 🇨🇭 Switzerland.</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohan-buechner&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-buechner" />
-</p>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rohan-buechner&theme=onedark&column=9&margin-w=15&margin-h=15&rank=?,-?,-B" alt="rohan-buechner" />
@@ -50,3 +48,7 @@
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true" alt="user:1105314's SO profile">
 </a>
 
+### Profile View Tracker
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohan-buechner&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-buechner" />
+</p>
