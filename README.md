@@ -5,7 +5,8 @@
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohan-buechner&theme=onedark" alt="rohan-buechner" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rohan-buechner&theme=onedark&column=3&margin-w=15&margin-h=15
+" alt="rohan-buechner" />
   </a>
 </p> 
 
