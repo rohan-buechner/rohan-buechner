@@ -24,8 +24,9 @@ jobs:
 
       - name: Download and crop StackOverflow image
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          curl -o stackoverflow.png "https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true"
+          sudo apt-get update && sudo apt-get install -y imagemagick librsvg2-bin
+          curl -L -o stackoverflow.svg "https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true"
+          rsvg-convert stackoverflow.svg -o stackoverflow.png
           convert stackoverflow.png -shave 2x2 stackoverflow.png
           
 
