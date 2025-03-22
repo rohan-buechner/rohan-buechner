@@ -14,8 +14,6 @@
 - 📝 I infrequently write articles on [https://rohanbuechner.com](https://rohanbuechner.com)
   
 - 💬 Ask me about **and and all javascript, (react, node, vite, webpack, nextjs), dotnetcore (microservices, DDD, graphql), Cloud AWS ❤️**
-  
-- ⚡ Fun fact **I'm pretty good at guitar and composing rock or alternative music**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -53,3 +51,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohan-buechner&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-buechner" />
 </p>
+
+### ⚡ Fun fact ** I enjoy making music, all the way from compsition and playing, to mixing and mastering**
+
+[![Senaah - Ephemeral](http://img.youtube.com/vi/rqCzm6L2PiE/0.jpg)](http://www.youtube.com/watch?v=rqCzm6L2PiE "Senaah - Ephemeral")
