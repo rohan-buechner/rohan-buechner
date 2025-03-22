@@ -39,6 +39,17 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)
 
+#### Stats
+
+<a href="https://github.com/rohan-buechner">
+  <img height="137px" src="stars-tier.svg"/>
+  <img height="137px" src="languages.svg"/>
+</a>
+<img height="137px" src="streak.svg"/>
+<a href="https://stackoverflow.com/users/1105314">
+  <img height="137px" src="stackoverflow.svg" />
+</a>
+
 
 <p>
   <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-buechner&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rohan-buechner" />
