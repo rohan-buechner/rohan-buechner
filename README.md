@@ -52,6 +52,5 @@
   <img src="https://komarev.com/ghpvc/?username=rohan-buechner&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-buechner" />
 </p>
 
-### ⚡ Fun fact ** I enjoy making music, all the way from compsition and playing, to mixing and mastering**
-
+### ⚡ Fun fact: I enjoy making music, all the way from compsition and playing, to mixing and mastering
 [![Senaah - Ephemeral](http://img.youtube.com/vi/rqCzm6L2PiE/0.jpg)](http://www.youtube.com/watch?v=rqCzm6L2PiE "Senaah - Ephemeral")
