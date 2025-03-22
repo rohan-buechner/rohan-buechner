@@ -34,9 +34,11 @@
   <img height="137px" src="stars-tier.svg"/>
   <img height="137px" src="languages.svg"/>
 </a>
-<img height="137px" src="streak.svg"/>
+<a href="https://github.com/rohan-buechner">
+    <img height="137px" src="streak.svg"/>
+</a>
 <a href="https://stackoverflow.com/users/1105314">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true" alt="user:1105314's SO profile">
+  <img style="height:137px" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true" alt="user:1105314's SO profile">
 </a>
 
 ### Profile View Tracker
