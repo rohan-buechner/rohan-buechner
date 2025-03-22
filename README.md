@@ -38,7 +38,7 @@
     <img height="137px" src="streak.svg"/>
 </a>
 <a href="https://stackoverflow.com/users/1105314">
-  <img style="height:137px" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true" alt="user:1105314's SO profile">
+   <img height="137px" src="stackoverflow.svg"/>
 </a>
 
 ### Profile View Tracker
