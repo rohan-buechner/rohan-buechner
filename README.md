@@ -26,6 +26,12 @@
   <a href="https://www.youtube.com/c/evette-and-rohan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evette-and-rohan" height="30" width="40" />
   </a>
+   <a href="https://www.youtube.com/c/rohan.buchner" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evette-and-rohan" height="30" width="40" />
+  </a>
+   <a href="https://www.youtube.com/c/senaah_band" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evette-and-rohan" height="30" width="40" />
+  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
