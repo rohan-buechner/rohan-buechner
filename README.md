@@ -51,7 +51,7 @@
 </p>
 
 <details>
-  <summary>⚡ Fun fact: I enjoy making music, all the way from compsition and playing, to mixing and mastering</summary>
+  <summary>⚡ Fun fact: I enjoy making music, all the way from compsition and playing, to mixing and mastering 🤘</summary>
   <br />
   
    [![Senaah - Ephemeral](http://img.youtube.com/vi/rqCzm6L2PiE/0.jpg)](http://www.youtube.com/watch?v=rqCzm6L2PiE "Senaah - Ephemeral")
