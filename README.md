@@ -50,12 +50,3 @@
   <img height="137px" src="stackoverflow.svg" />
 </a>
 
-
-<p>
-  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-buechner&show_icons=true&locale=en&layout=compact&theme=onedark" alt="rohan-buechner" />
-</div>
-  <div><img height="137px"
-  src="https://stackoverflow-card.vercel.app/?userID=1105314&theme=gruvboxdark"
-/></div>
-</p>
-
