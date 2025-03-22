@@ -12,8 +12,15 @@
 - 🌱 I’m currently learning **Actor Pattern Implementations using Orleans on top of Aspire**
   
 - 📝 I infrequently write articles on [https://rohanbuechner.com](https://rohanbuechner.com)
-  
-- 💬 Ask me about **and and all javascript, (react, node, vite, webpack, nextjs), dotnetcore (microservices, DDD, graphql), Cloud AWS ❤️**
+
+### Languages
+
+![.NET Core](https://img.shields.io/badge/-DotNetCore-512BD4?&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?&logo=amazonwebservices&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,16 +32,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evette-and-rohan" height="30" width="40" />
   </a>
 </p>
-
-
-### Languages
-
-![.NET Core](https://img.shields.io/badge/-DotNetCore-512BD4?&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?&logo=amazonwebservices&logoColor=white)
 
 #### Stats
 
