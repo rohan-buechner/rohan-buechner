@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REFRESH_BOT_PAT }}
 
       - run: |
           # Get stars/tier card
@@ -22,7 +24,3 @@ jobs:
 
       # commit, push
       - uses: stefanzweifel/git-auto-commit-action@v4  
-        with:
-          commit_message: "Auto commit"
-        env:
-          GITHUB_TOKEN: ${{ secrets.REFRESH_BOT_PAT }}
