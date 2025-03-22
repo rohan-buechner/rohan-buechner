@@ -22,5 +22,12 @@ jobs:
           curl "http://github-readme-streak-stats.herokuapp.com/?user=rohan-buechner&theme=onedark&hide_border=true" > streak.svg
           curl "https://stackoverflow-card.vercel.app/?userID=1105314&theme=gruvbox&showBorder=false" > stackoverflow.svg
 
+      - name: Download and crop StackOverflow image
+        run: |
+          sudo apt-get update && sudo apt-get install -y imagemagick
+          curl -o stackoverflow.png "https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true"
+          convert stackoverflow.png -shave 2x2 stackoverflow.png
+          
+
       # commit, push
       - uses: stefanzweifel/git-auto-commit-action@v4  
