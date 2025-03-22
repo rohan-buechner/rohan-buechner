@@ -24,8 +24,8 @@ jobs:
           # the stackoverflow badge is special.
           curl "https://stackoverflow-readme-profile.johannchopin.fr/profile/1105314?theme=dark&website=true&location=true" > stackoverflow.svg
           
-          # Replace stroke color var(--color-primary) with var(--color-bg)
-          sed -i 's/stroke: var(--color-primary);/stroke: var(--color-bg);/' stackoverflow.svg
+          # Replace both fill (background) and stroke (border) with #282c34 (same colour as other cards)
+          sed -i 's/fill: var(--color-bg);/fill: #282c34;/; s/stroke: var(--color-primary);/stroke: #282c34;/' stackoverflow.svg
 
       # commit, push
       - uses: stefanzweifel/git-auto-commit-action@v4  
