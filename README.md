@@ -13,11 +13,13 @@
   
 - 🌱 I’m currently learning **Actor Pattern Implementations using Orleans on top of Aspire**
   
-- 📝 I regularly write articles on [https://rohanbuechner.com](https://rohanbuechner.com)
+- 📝 I infrequently write articles on [https://rohanbuechner.com](https://rohanbuechner.com)
   
 - 💬 Ask me about **and and all javascript, (react, node, vite, webpack, nextjs), dotnetcore (microservices, DDD, graphql), Cloud AWS ❤️**
   
-- ⚡ Fun fact **I'm pretty good at guitar and composing rock or alternative music** <h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I'm pretty good at guitar and composing rock or alternative music**
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://stackoverflow.com/users/1105314" target="blank">
