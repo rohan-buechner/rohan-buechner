@@ -24,14 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://stackoverflow.com/users/1105314" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1105314" height="30" width="40" />
-  </a>
-   <a href="https://www.youtube.com/c/rohan.buchner" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evette-and-rohan" height="30" width="40" />
-  </a>
-</p>
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1105314)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-buechner)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/evette-and-rohan)
 
 #### Stats
 
