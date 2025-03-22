@@ -34,6 +34,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?&logo=amazonwebservices&logoColor=white)
 
 #### Stats
 
@@ -52,5 +53,10 @@
   <img src="https://komarev.com/ghpvc/?username=rohan-buechner&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-buechner" />
 </p>
 
-### ⚡ Fun fact: I enjoy making music, all the way from compsition and playing, to mixing and mastering
-[![Senaah - Ephemeral](http://img.youtube.com/vi/rqCzm6L2PiE/0.jpg)](http://www.youtube.com/watch?v=rqCzm6L2PiE "Senaah - Ephemeral")
+<details>
+  <summary>⚡ Fun fact: I enjoy making music, all the way from compsition and playing, to mixing and mastering</summary>
+  <br />
+  
+   [![Senaah - Ephemeral](http://img.youtube.com/vi/rqCzm6L2PiE/0.jpg)](http://www.youtube.com/watch?v=rqCzm6L2PiE "Senaah - Ephemeral")
+</details
+
