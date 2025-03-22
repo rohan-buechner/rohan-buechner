@@ -20,7 +20,7 @@ jobs:
           curl "https://github-readme-stats.vercel.app/api?username=rohan-buechner&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github&count_private=true&line_height=21&theme=onedark" > stars-tier.svg
           curl "https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-buechner&hide=html,apacheconf,css&hide_title=true&hide_border=true&count_private=true&layout=compact&langs_count=6&theme=onedark" > languages.svg
           curl "http://github-readme-streak-stats.herokuapp.com/?user=rohan-buechner&theme=onedark&hide_border=true" > streak.svg
-          curl "https://stackoverflow-card.vercel.app/?userID=1105314&theme=gruvboxdark&showBorder=false" > stackoverflow.svg
+          curl "https://stackoverflow-card.vercel.app/?userID=1105314&theme=gruvbox&showBorder=false" > stackoverflow.svg
 
       # commit, push
       - uses: stefanzweifel/git-auto-commit-action@v4  
