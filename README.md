@@ -13,7 +13,7 @@
   
 - 📝 I infrequently write articles on [https://rohanbuechner.com](https://rohanbuechner.com)
 
-### Languages
+### Tech
 
 ![.NET Core](https://img.shields.io/badge/-DotNetCore-512BD4?&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
