@@ -2,7 +2,7 @@
 <h3 align="center">Technology and guitar riffs all day. Raised in 🇿🇦 South Africa living in 🇨🇭 Switzerland.</h3>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://www.youtube.com/watch?v=dQw4w9WgXcQ)">
    <img height="137px" src="trophies.svg"/>
   </a>
 </p> 
