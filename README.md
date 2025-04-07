@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohan-buechner&theme=onedark&column=9&margin-w=15&margin-h=15&rank=?,-?,-B" alt="rohan-buechner" />
+   <img height="137px" src="trophies.svg"/>
   </a>
 </p> 
 
